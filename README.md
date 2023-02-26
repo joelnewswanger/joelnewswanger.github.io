@@ -1,3 +1,3 @@
 # https://joelnewswanger.github.io
 
-This is a github pages site I made to show off the projects I have made.
+This is a github pages site I made as a portfolio of the projects I have done.
